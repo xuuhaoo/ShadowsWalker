@@ -62,7 +62,3 @@ freeline_project_description.json
 /captures
 libs/
 src/main/res/drawable/
-.gitignore
-build.gradle
-proguard-rules.pro
-src/
