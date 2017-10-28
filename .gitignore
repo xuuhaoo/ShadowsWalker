@@ -53,3 +53,16 @@ google-services.json
 freeline.py
 freeline/
 freeline_project_description.json
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+libs/
+src/main/res/drawable/
+.gitignore
+build.gradle
+proguard-rules.pro
+src/
